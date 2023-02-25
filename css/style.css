@@ -688,6 +688,10 @@ button {
     display: none;
 }
 
+.card{
+    font-family:'Times New Roman', Times, serif;
+}
+
 .shoping_bag {
     float: left;
     text-align: center !important;
