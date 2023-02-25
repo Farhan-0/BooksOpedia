@@ -350,6 +350,6 @@ function validate(e) {
       window.open(links.get("TheDaVinciCode"));
       break;
     default:
-      window.location.replace("https://master.dplfvbqv55scu.amplifyapp.com/");
+      window.location.replace("https://www.amazon.in/Books/b?ie=UTF8&node=976389031");
   }
 }
