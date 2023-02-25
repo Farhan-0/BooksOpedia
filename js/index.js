@@ -350,6 +350,6 @@ function validate(e) {
       window.open(links.get("TheDaVinciCode"));
       break;
     default:
-      window.open("https://www.google.com", "");
+      window.location.replace("https://master.dplfvbqv55scu.amplifyapp.com/");
   }
 }
